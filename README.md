@@ -1,2 +1,6 @@
 # Image-Editor
-Image Editor program
+Image Editor application
+Made with Java and Swing.
+
+I this application you can edit your image by rotating it or adding captions, filters and borders. You can save and print your edited image. Help is available in the File-tab.
+Start with pressing the "Add image"-button.
